@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mathe\\Pictures\\Projetos\\EFCORE_WEBAPI_E\\EFCORE_WEBAPI_E\\EFCORE_WEBAPI_E.csproj": {}
+    "C:\\Users\\mathe\\Pictures\\Projetos\\EFCORE_WEBAPI_E\\EFCore.Domain\\EFCore.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mathe\\Pictures\\Projetos\\EFCORE_WEBAPI_E\\EFCORE_WEBAPI_E\\EFCORE_WEBAPI_E.csproj": {
+    "C:\\Users\\mathe\\Pictures\\Projetos\\EFCORE_WEBAPI_E\\EFCore.Domain\\EFCore.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mathe\\Pictures\\Projetos\\EFCORE_WEBAPI_E\\EFCORE_WEBAPI_E\\EFCORE_WEBAPI_E.csproj",
-        "projectName": "EFCORE_WEBAPI_E",
-        "projectPath": "C:\\Users\\mathe\\Pictures\\Projetos\\EFCORE_WEBAPI_E\\EFCORE_WEBAPI_E\\EFCORE_WEBAPI_E.csproj",
+        "projectUniqueName": "C:\\Users\\mathe\\Pictures\\Projetos\\EFCORE_WEBAPI_E\\EFCore.Domain\\EFCore.Domain.csproj",
+        "projectName": "EFCore.Domain",
+        "projectPath": "C:\\Users\\mathe\\Pictures\\Projetos\\EFCORE_WEBAPI_E\\EFCore.Domain\\EFCore.Domain.csproj",
         "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mathe\\Pictures\\Projetos\\EFCORE_WEBAPI_E\\EFCORE_WEBAPI_E\\obj\\",
+        "outputPath": "C:\\Users\\mathe\\Pictures\\Projetos\\EFCORE_WEBAPI_E\\EFCore.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -23,14 +23,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.2"
+          "netstandard2.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.2": {
+          "netstandard2.0": {
             "projectReferences": {}
           }
         },
@@ -41,32 +41,13 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.2": {
+        "netstandard2.0": {
           "dependencies": {
-            "Dapper.SqlBuilder": {
-              "target": "Package",
-              "version": "[2.0.30, )"
-            },
-            "Microsoft.AspNetCore.App": {
+            "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.2.0, )",
+              "version": "[2.0.3, )",
               "autoReferenced": true
-            },
-            "Microsoft.AspNetCore.Razor.Design": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
-            },
-            "microsoft.entityframeworkcore.sqlserver": {
-              "target": "Package",
-              "version": "[3.1.3, )"
             }
           },
           "imports": [

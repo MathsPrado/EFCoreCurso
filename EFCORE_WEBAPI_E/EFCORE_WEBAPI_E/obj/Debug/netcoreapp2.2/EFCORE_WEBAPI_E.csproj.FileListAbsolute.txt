@@ -7,7 +7,6 @@ C:\Users\mathe\Pictures\Projetos\EFCORE_WEBAPI_E\EFCORE_WEBAPI_E\bin\Debug\netco
 C:\Users\mathe\Pictures\Projetos\EFCORE_WEBAPI_E\EFCORE_WEBAPI_E\bin\Debug\netcoreapp2.2\EFCORE_WEBAPI_E.dll
 C:\Users\mathe\Pictures\Projetos\EFCORE_WEBAPI_E\EFCORE_WEBAPI_E\bin\Debug\netcoreapp2.2\EFCORE_WEBAPI_E.pdb
 C:\Users\mathe\Pictures\Projetos\EFCORE_WEBAPI_E\EFCORE_WEBAPI_E\obj\Debug\netcoreapp2.2\EFCORE_WEBAPI_E.csprojAssemblyReference.cache
-C:\Users\mathe\Pictures\Projetos\EFCORE_WEBAPI_E\EFCORE_WEBAPI_E\obj\Debug\netcoreapp2.2\EFCORE_WEBAPI_E.csproj.CoreCompileInputs.cache
 C:\Users\mathe\Pictures\Projetos\EFCORE_WEBAPI_E\EFCORE_WEBAPI_E\obj\Debug\netcoreapp2.2\EFCORE_WEBAPI_E.RazorAssemblyInfo.cache
 C:\Users\mathe\Pictures\Projetos\EFCORE_WEBAPI_E\EFCORE_WEBAPI_E\obj\Debug\netcoreapp2.2\EFCORE_WEBAPI_E.RazorAssemblyInfo.cs
 C:\Users\mathe\Pictures\Projetos\EFCORE_WEBAPI_E\EFCORE_WEBAPI_E\obj\Debug\netcoreapp2.2\EFCORE_WEBAPI_E.AssemblyInfoInputs.cache
