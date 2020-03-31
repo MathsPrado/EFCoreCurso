@@ -12152,11 +12152,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mathe\\Pictures\\Projetos\\EFCORE_WEBAPI_E\\EFCORE_WEBAPI_E\\EFCORE_WEBAPI_E.csproj",
+      "projectUniqueName": "C:\\Users\\mathe\\Pictures\\Projetos\\git\\api\\EFCORE_WEBAPI_E\\EFCORE_WEBAPI_E\\EFCORE_WEBAPI_E.csproj",
       "projectName": "EFCORE_WEBAPI_E",
-      "projectPath": "C:\\Users\\mathe\\Pictures\\Projetos\\EFCORE_WEBAPI_E\\EFCORE_WEBAPI_E\\EFCORE_WEBAPI_E.csproj",
+      "projectPath": "C:\\Users\\mathe\\Pictures\\Projetos\\git\\api\\EFCORE_WEBAPI_E\\EFCORE_WEBAPI_E\\EFCORE_WEBAPI_E.csproj",
       "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mathe\\Pictures\\Projetos\\EFCORE_WEBAPI_E\\EFCORE_WEBAPI_E\\obj\\",
+      "outputPath": "C:\\Users\\mathe\\Pictures\\Projetos\\git\\api\\EFCORE_WEBAPI_E\\EFCORE_WEBAPI_E\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

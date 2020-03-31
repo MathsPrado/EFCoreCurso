@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+Rh16TxHIPjUXq1j9qcbtaad4tSbcATBoAfqRrCXcnttoF3wDRluFzEP28rpYK8jWk+EvrzPZU6JmborXfQP9g==",
+  "dgSpecHash": "dF2IGcEB8sDO7QprELNeaYqehy2dn9DUiVQ0+5UMVo+EMSTWbiTxCOQYxxmDw9Fzj/3ZaTqYunVTU85aVPFlIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mathe\\Pictures\\Projetos\\EFCORE_WEBAPI_E\\EFCore.Repos\\EFCore.Repos.csproj",
+  "projectFilePath": "C:\\Users\\mathe\\Pictures\\Projetos\\git\\api\\EFCORE_WEBAPI_E\\EFCore.Repos\\EFCore.Repos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mathe\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

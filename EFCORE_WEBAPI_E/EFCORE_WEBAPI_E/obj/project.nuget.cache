@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AdOivlWXHEsjtRVkMBFx0dT/rYNss6vV4JSK1lEQkv4LYxvv0lrMV2sowIJCLBzU9/if0kmPNtSbuXP2ijO8Yw==",
+  "dgSpecHash": "KnNAQTTx+x74epRJO+ezSmUyk6bPGb96oD36wgKPgq4XCKluJMxjQZ1obRDEXLKUgy9rCJ3Pfc99t99VAClzRw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mathe\\Pictures\\Projetos\\EFCORE_WEBAPI_E\\EFCORE_WEBAPI_E\\EFCORE_WEBAPI_E.csproj",
+  "projectFilePath": "C:\\Users\\mathe\\Pictures\\Projetos\\git\\api\\EFCORE_WEBAPI_E\\EFCORE_WEBAPI_E\\EFCORE_WEBAPI_E.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mathe\\.nuget\\packages\\dapper\\2.0.30\\dapper.2.0.30.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\dapper.sqlbuilder\\2.0.30\\dapper.sqlbuilder.2.0.30.nupkg.sha512",

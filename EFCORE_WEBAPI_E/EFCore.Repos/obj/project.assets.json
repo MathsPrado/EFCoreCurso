@@ -1045,11 +1045,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mathe\\Pictures\\Projetos\\EFCORE_WEBAPI_E\\EFCore.Repos\\EFCore.Repos.csproj",
+      "projectUniqueName": "C:\\Users\\mathe\\Pictures\\Projetos\\git\\api\\EFCORE_WEBAPI_E\\EFCore.Repos\\EFCore.Repos.csproj",
       "projectName": "EFCore.Repos",
-      "projectPath": "C:\\Users\\mathe\\Pictures\\Projetos\\EFCORE_WEBAPI_E\\EFCore.Repos\\EFCore.Repos.csproj",
+      "projectPath": "C:\\Users\\mathe\\Pictures\\Projetos\\git\\api\\EFCORE_WEBAPI_E\\EFCore.Repos\\EFCore.Repos.csproj",
       "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mathe\\Pictures\\Projetos\\EFCORE_WEBAPI_E\\EFCore.Repos\\obj\\",
+      "outputPath": "C:\\Users\\mathe\\Pictures\\Projetos\\git\\api\\EFCORE_WEBAPI_E\\EFCore.Repos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -1070,8 +1070,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\mathe\\Pictures\\Projetos\\EFCORE_WEBAPI_E\\EFCore.Domain\\EFCore.Domain.csproj": {
-              "projectPath": "C:\\Users\\mathe\\Pictures\\Projetos\\EFCORE_WEBAPI_E\\EFCore.Domain\\EFCore.Domain.csproj"
+            "C:\\Users\\mathe\\Pictures\\Projetos\\git\\api\\EFCORE_WEBAPI_E\\EFCore.Domain\\EFCore.Domain.csproj": {
+              "projectPath": "C:\\Users\\mathe\\Pictures\\Projetos\\git\\api\\EFCORE_WEBAPI_E\\EFCore.Domain\\EFCore.Domain.csproj"
             }
           }
         }
