@@ -1,4 +1,0 @@
-C:\Users\mathe\Pictures\Projetos\git\api\EFCORE_WEBAPI_E\EFCore.Domain\obj\Debug\netstandard2.0\EFCore.Domain.csprojAssemblyReference.cache
-C:\Users\mathe\Pictures\Projetos\git\api\EFCORE_WEBAPI_E\EFCore.Domain\obj\Debug\netstandard2.0\EFCore.Domain.csproj.CoreCompileInputs.cache
-C:\Users\mathe\Pictures\Projetos\git\api\EFCORE_WEBAPI_E\EFCore.Domain\obj\Debug\netstandard2.0\EFCore.Domain.AssemblyInfoInputs.cache
-C:\Users\mathe\Pictures\Projetos\git\api\EFCORE_WEBAPI_E\EFCore.Domain\obj\Debug\netstandard2.0\EFCore.Domain.AssemblyInfo.cs

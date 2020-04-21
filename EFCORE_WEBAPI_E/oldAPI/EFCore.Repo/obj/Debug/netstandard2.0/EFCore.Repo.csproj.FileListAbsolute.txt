@@ -1,5 +1,0 @@
-C:\Users\mathe\Pictures\Projetos\EFCORE_WEBAPI_E\EFCore.Repo\bin\Debug\netstandard2.0\EFCore.Repo.deps.json
-C:\Users\mathe\Pictures\Projetos\EFCORE_WEBAPI_E\EFCore.Repo\bin\Debug\netstandard2.0\EFCore.Repo.dll
-C:\Users\mathe\Pictures\Projetos\EFCORE_WEBAPI_E\EFCore.Repo\obj\Debug\netstandard2.0\EFCore.Repo.AssemblyInfoInputs.cache
-C:\Users\mathe\Pictures\Projetos\EFCORE_WEBAPI_E\EFCore.Repo\obj\Debug\netstandard2.0\EFCore.Repo.AssemblyInfo.cs
-C:\Users\mathe\Pictures\Projetos\EFCORE_WEBAPI_E\EFCore.Repo\obj\Debug\netstandard2.0\EFCore.Repo.csprojAssemblyReference.cache
