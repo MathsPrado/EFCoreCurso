@@ -1,0 +1,12 @@
+C:\Users\mathe\source\repos\EFCore.Api\EFCore.Repo\bin\Debug\netstandard2.0\EFCore.Repo.deps.json
+C:\Users\mathe\source\repos\EFCore.Api\EFCore.Repo\bin\Debug\netstandard2.0\EFCore.Repo.dll
+C:\Users\mathe\source\repos\EFCore.Api\EFCore.Repo\bin\Debug\netstandard2.0\EFCore.Repo.pdb
+C:\Users\mathe\source\repos\EFCore.Api\EFCore.Repo\bin\Debug\netstandard2.0\EFCore.Dominio.dll
+C:\Users\mathe\source\repos\EFCore.Api\EFCore.Repo\bin\Debug\netstandard2.0\EFCore.Dominio.pdb
+C:\Users\mathe\source\repos\EFCore.Api\EFCore.Repo\obj\Debug\netstandard2.0\EFCore.Repo.csprojAssemblyReference.cache
+C:\Users\mathe\source\repos\EFCore.Api\EFCore.Repo\obj\Debug\netstandard2.0\EFCore.Repo.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\EFCore.Api\EFCore.Repo\obj\Debug\netstandard2.0\EFCore.Repo.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\EFCore.Api\EFCore.Repo\obj\Debug\netstandard2.0\EFCore.Repo.AssemblyInfo.cs
+C:\Users\mathe\source\repos\EFCore.Api\EFCore.Repo\obj\Debug\netstandard2.0\EFCore.Repo.csproj.CopyComplete
+C:\Users\mathe\source\repos\EFCore.Api\EFCore.Repo\obj\Debug\netstandard2.0\EFCore.Repo.dll
+C:\Users\mathe\source\repos\EFCore.Api\EFCore.Repo\obj\Debug\netstandard2.0\EFCore.Repo.pdb
